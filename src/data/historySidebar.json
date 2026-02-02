@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history",
+    "title": "Ancient History",
+    "count": 11,
+    "path": "/explore/upsc/history/ancient-history"
+  },
+  {
+    "id": "old-ncert",
+    "title": "Old NCERTs, NCERT based Tests & Summaries",
+    "count": 5,
+    "path": "/explore/upsc/history/old-ncert"
+  },
+  {
+    "id": "modern-history",
+    "title": "Modern History",
+    "count": 14,
+    "path": "/explore/upsc/history/modern-history"
+  },
+  {
+    "id": "medieval-history",
+    "title": "Medieval History",
+    "count": 12,
+    "path": "/explore/upsc/history/medieval-history"
+  },
+  {
+    "id": "Current Affairs for History, Art & Culture",
+    "title": "Current Affairs for History, Art & Culture",
+    "count": 17,
+    "path": "/explore/upsc/history/current-affairs-history-art-culture"
+  }
+]

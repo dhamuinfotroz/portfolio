@@ -1,0 +1,211 @@
+{
+  "ancient-history": {
+    "title": "Ancient History",
+    "children": {
+      "prehistoric": {
+        "title": "Prehistoric India",
+        "type": "doc",
+        "content": "<h2>Prehistoric India</h2><h3>History</h3><p>History (from the Greek word <em>Historia</em>, meaning \"inquiry\", knowledge acquired by investigation) is the study of the past. History is an umbrella term that relates to past events as well as the discovery, collection, organisation, presentation and interpretation of information about these events.</p><p>It is divided into pre-history, proto-history, and history.</p><p><strong>Pre-history</strong> – Events that occurred before the invention of writing are considered pre-history. Pre-history is represented by the three stone ages.</p><p><strong>Proto-history</strong> – It refers to the period between pre-history and history, during which a culture or organisation had not developed yet but has its mention in the written records of a contemporary literate civilisation.</p><p><strong>History</strong> – The study of the past after the invention of writing and the study of literate societies based on written records and archaeological sources constitute history.</p>"
+      },
+      "Indus Valley Civilization": {
+        "title": "Indus Valley Civilization",
+        "type": "doc",
+        "content": "<p>Harappan Civilization overview.</p>"
+      },
+      "Rig vedic-period": {
+        "title": "Vedic Period",
+        "type": "doc",
+        "content": "<p>Vedic Period overview.</p>"
+      },
+      "Later Vedic Period": {
+        "title": "Mahajanapadas",
+        "type": "doc",
+        "content": "<p>Mahajanapadas overview.</p>"
+      },
+      "Jainism": {
+        "title": "Mauryan Empire",
+        "type": "doc",
+        "content": "<p>Mauryan Empire overview.</p>"
+      },
+      "Buddhism": {
+        "title": "Gupta Empire",
+        "type": "doc",
+        "content": "<p>Gupta Empire overview.</p>"
+      },
+      "Mahajanapadas Period": {
+        "title": "Post-Gupta Period",
+        "type": "doc",
+        "content": "<p>Post-Gupta Period overview.</p>"
+      },
+      "Mauryan Empire": {
+        "title": "South Indian Kingdoms",
+        "type": "doc",
+        "content": "<p>South Indian Kingdoms overview.</p>"
+      },
+      "Post-Mauryan India": {
+        "title": "Art and Architecture",
+        "type": "doc",
+        "content": "<p>Ancient Indian Art and Architecture overview.</p>"
+      },
+      "Gupta Period": {
+        "title": "Science and Technology",
+        "type": "doc",
+        "content": "<p>Ancient Indian Science and Technology overview.</p>"
+      },
+      "Harshavardhana Period": {
+        "title": "Ancient India Summary",
+        "type": "doc",
+        "content": "<p>Summary of Ancient India.</p>"
+      },
+      "Sangam Period (South Indian Dynasties)": {
+        "title": "Ancient India Tests",
+        "type": "doc",
+        "content": "<p>Tests on Ancient India.</p>"
+      }
+    }
+  },
+
+  "old-ncert": {
+    "title": "Old NCERTs, NCERT based Tests & Summaries",
+    "children": {
+      "rs-sharma-ancient-india": {
+        "title": "Old NCERT RS Sharma: Ancient India",
+        "type": "doc",
+        "content": "<p>RS Sharma Ancient India content.</p>"
+      },
+      "satish-chandra-medieval": {
+        "title": "Old NCERT Satish Chandra: Medieval India",
+        "type": "doc",
+        "content": "<p>Satish Chandra Medieval India content.</p>"
+      },
+      "class-wise-ncert-tests": {
+        "title": "Class-wise NCERT Tests",
+        "type": "doc",
+        "content": "<p>Class-wise tests content.</p>"
+      }
+    }
+  },
+
+  "modern-history": {
+    "title": "Modern History",
+    "children": {
+      "advent-of-europeans": {
+        "title": "Advent of Europeans",
+        "type": "doc",
+        "content": "<p>Coming soon</p>"
+      },
+      "revolt-1857": {
+        "title": "Revolt of 1857",
+        "type": "doc",
+        "content": "<p>Coming soon</p>"
+      }
+    }
+  },
+
+  "medieval-history": {
+    "title": "Medieval History",
+    "children": {
+      "delhi-sultanate": {
+        "title": "Delhi Sultanate",
+        "type": "doc",
+        "content": "<p>Delhi Sultanate overview.</p>"
+      },
+      "mughal-empire": {
+        "title": "Mughal Empire",
+        "type": "doc",
+        "content": "<p>Mughal Empire overview.</p>"
+      }
+    }
+  },
+  "current-affairs-history-art-culture": {
+  "title": "Current Affairs for History, Art & Culture",
+  "children": {
+    "monthly-art-culture": {
+      "title": "Monthly Art & Culture",
+      "type": "doc",
+      "content": "<p>Monthly updates on Art & Culture.</p>"
+    },
+    "unesco-sites": {
+      "title": "UNESCO Heritage Sites",
+      "type": "doc",
+      "content": "<p>Important UNESCO World Heritage Sites in news.</p>"
+    },
+    "gi-tags": {
+      "title": "GI Tags",
+      "type": "doc",
+      "content": "<p>Geographical Indication tags in current affairs.</p>"
+    },
+    "festivals": {
+      "title": "Festivals in News",
+      "type": "doc",
+      "content": "<p>Festivals and cultural events in news.</p>"
+    },
+    "temples-architecture": {
+      "title": "Temples & Architecture",
+      "type": "doc",
+      "content": "<p>Temple architecture related current affairs.</p>"
+    },
+    "buddhism-jainism": {
+      "title": "Buddhism & Jainism",
+      "type": "doc",
+      "content": "<p>Buddhist and Jain related current affairs.</p>"
+    },
+    "books-authors": {
+      "title": "Books & Authors",
+      "type": "doc",
+      "content": "<p>Important books and authors in news.</p>"
+    },
+    "museums": {
+      "title": "Museums & Cultural Institutions",
+      "type": "doc",
+      "content": "<p>Museums and institutions in current affairs.</p>"
+    },
+    "dance-music": {
+      "title": "Dance & Music",
+      "type": "doc",
+      "content": "<p>Indian dance and music forms in news.</p>"
+    },
+    "paintings": {
+      "title": "Paintings & Schools of Art",
+      "type": "doc",
+      "content": "<p>Indian painting traditions in news.</p>"
+    },
+    "languages": {
+      "title": "Languages & Scripts",
+      "type": "doc",
+      "content": "<p>Languages and scripts related updates.</p>"
+    },
+    "archaeology": {
+      "title": "Archaeological Discoveries",
+      "type": "doc",
+      "content": "<p>New archaeological discoveries.</p>"
+    },
+    "monuments": {
+      "title": "Monuments in News",
+      "type": "doc",
+      "content": "<p>Historical monuments in current affairs.</p>"
+    },
+    "freedom-icons": {
+      "title": "Freedom Struggle Icons",
+      "type": "doc",
+      "content": "<p>Freedom fighters in current affairs.</p>"
+    },
+    "anniversaries": {
+      "title": "Historical Anniversaries",
+      "type": "doc",
+      "content": "<p>Important historical anniversaries.</p>"
+    },
+    "cultural-schemes": {
+      "title": "Cultural Schemes & Initiatives",
+      "type": "doc",
+      "content": "<p>Government schemes related to culture.</p>"
+    },
+    "misc-art-culture": {
+      "title": "Miscellaneous Art & Culture",
+      "type": "doc",
+      "content": "<p>Other important art & culture news.</p>"
+    }
+  }
+}
+
+}

@@ -1,0 +1,37 @@
+{
+  "ancient-history": {
+    "title": "Ancient History",
+    "children": {
+      "indus-valley-civilisation": {
+        "title": "Indus Valley Civilisation",
+        "type": "topic",
+        "children": [
+          {
+            "id": "ivc-intro",
+            "title": "Introduction to the Harappan Culture",
+            "type": "doc",
+            "content": "<h2>Introduction</h2><p>Indus Valley Civilisation content...</p>"
+          }
+        ]
+      }
+    }
+  },
+
+  "old-ncert": {
+    "title": "Old NCERTs, NCERT based Tests & Summaries",
+    "children": {
+      "rs-sharma-ancient-india": {
+        "title": "Old NCERT RS Sharma: Ancient India",
+        "type": "topic",
+        "children": [
+          {
+            "id": "harappan",
+            "title": "Harappan Civilisation (RS Sharma)",
+            "type": "doc",
+            "content": "<h2>Harappan Civilisation</h2><p>Content...</p>"
+          }
+        ]
+      }
+    }
+  }
+}
